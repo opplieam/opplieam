@@ -4,6 +4,7 @@ I'm a **Senior Web Scraping Developer** transitioning into **Backend Engineer** 
 
 - 🌱 I’m currently expanding my backend expertise with **Go**.
 - 💼 **Available for freelance projects** in backend development (Go) and web scraping (Python)
+- 📌 **Please check the pinned project for a demonstration** of my work.
 - 👯 I’m open to collaborate on **Go** projects, especially related to APIs, concurrency, or distributed systems.
 - 💬 Ask me about **web scraping**, **reverse engineering**, **backend development** and **distribued systems**.
 
