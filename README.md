@@ -12,7 +12,7 @@ I'm a **Senior Web Scraping Developer** transitioning into **Backend Engineer** 
 
 ## Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=opplieam&layout=compact&theme=dark&hide=Jupyter%20Notebook&size_weight=0.5&count_weight=0.5)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=opplieam&theme=dark&hide=Jupyter%20Notebook&size_weight=0.5&count_weight=0.5)
 
 ---
 
