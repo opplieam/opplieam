@@ -13,9 +13,10 @@ I'm a **Senior Web Scraping Developer** transitioning into **Backend Engineer** 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=opplieam&theme=dark&hide=Jupyter%20Notebook,javascript,java&size_weight=0.5&count_weight=0.5&layout=donut)
 
-[![Facebook Card](https://github-readme-stats.vercel.app/api/pin/?username=opplieam&repo=FacebookCrawler&theme=dark&show_owner=true&description_lines_count=4)](https://github.com/opplieam/FacebookCrawler)
+[![Dist Card](https://github-readme-stats.vercel.app/api/pin/?username=opplieam&repo=bb-dist-noti&theme=dark&show_owner=true&description_lines_count=4)](https://github.com/opplieam/bb-dist-noti)
 [![API Card](https://github-readme-stats.vercel.app/api/pin/?username=opplieam&repo=bb-admin-api&theme=dark&show_owner=true&description_lines_count=4)](https://github.com/opplieam/bb-admin-api)
 [![Infra Card](https://github-readme-stats.vercel.app/api/pin/?username=opplieam&repo=bb-k8s-infra&theme=dark&show_owner=true&description_lines_count=4)](https://github.com/opplieam/bb-k8s-infra)
+[![Facebook Card](https://github-readme-stats.vercel.app/api/pin/?username=opplieam&repo=FacebookCrawler&theme=dark&show_owner=true&description_lines_count=4)](https://github.com/opplieam/FacebookCrawler)
 
 ---
 
