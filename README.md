@@ -22,7 +22,7 @@ I'm a **Senior Web Scraping Developer** transitioning into **Backend Engineer** 
 
 ## Let's Connect
 
-- [Website](https://thanyasit.vercel.app/)
+- [Website](https://thanyasit.dev)
 - [Linkedin](https://www.linkedin.com/in/thanyasit-l/)
 - [Gmail](mailto:opp.thanyasit@gmail.com)
 
