@@ -11,7 +11,7 @@ I'm a **Senior Web Scraping Developer** transitioning into **Backend Engineer** 
 
 ## Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=opplieam&theme=dark&hide=Jupyter%20Notebook,javascript,java&size_weight=0.5&count_weight=0.5&layout=donut)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=opplieam&theme=dark&hide=Jupyter%20Notebook,smarty,javascript,java&size_weight=0.5&count_weight=0.5&layout=donut)
 
 [![Dist Card](https://github-readme-stats.vercel.app/api/pin/?username=opplieam&repo=bb-dist-noti&theme=dark&show_owner=true&description_lines_count=4)](https://github.com/opplieam/bb-dist-noti)
 [![API Card](https://github-readme-stats.vercel.app/api/pin/?username=opplieam&repo=bb-admin-api&theme=dark&show_owner=true&description_lines_count=4)](https://github.com/opplieam/bb-admin-api)
