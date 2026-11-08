@@ -1,11 +1,11 @@
 # Hi there, I'm Thanyasit 
 
-I'm a **Senior Web Scraping Developer** transitioning into **Backend Engineer** with a focus on **Go**. 
+I'm a **Backend Engineer specializing in Go and Distributed Systems**, with 10+ years of experience building production-grade web scraping systems using Python.
 
-- I’m currently expanding my backend expertise with **Go**.
-- **Available for freelance projects** in Backend development (Go) and Web scraping (Python)
-- Whether you need a robust backend system, scalable APIs, or a custom scraping solution, I’m here to help!
-- **Please check the pinned project for a demonstration** of my skills and expertise.
+- Building scalable backend systems and APIs with **Go**
+- Interested in distributed systems, event-driven architectures, and system design.
+- Experienced in building and maintaining production web scraping systems with **Python, Scrapy, and Playwright**.
+- Available for selected freelance projects in **Go Backend Development** and **Python Web Scraping**.
 
 ---
 
